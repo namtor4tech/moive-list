@@ -1,0 +1,107 @@
+*{
+  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+
+body{
+    background-color: rgb(252, 250, 250);
+    
+}
+
+.card_container{
+    max-width: 900px;
+    display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+   margin: auto;
+
+              
+}
+
+.input{
+    padding: 30px;
+}
+
+.img{
+    width: 160px;
+}
+
+.container1{
+    margin-right: 50px;
+    background-color:white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px;
+    
+}
+.container2{
+
+    margin-right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px;
+  }
+.container3{
+    border-color: aqua;
+    margin-right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px;
+   
+}
+.container4{
+    border-color: aqua;
+    margin-right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px; 
+}
+
+.container5{
+    border-color: aqua;
+    margin-right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px; 
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+.container6{
+    border-color: aqua;
+    margin-right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px; 
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+.container7{
+    border-color: aqua;
+    margin-right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px; 
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+.container8{
+    border-color: aqua;
+    margin-right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px; 
+    margin-top: 20px;
+    margin-bottom: 10px;
+     }
+
+
+
+@media  (max-width: 400px) {
+
+    
+}
